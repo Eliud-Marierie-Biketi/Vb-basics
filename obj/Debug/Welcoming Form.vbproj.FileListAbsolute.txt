@@ -1,0 +1,13 @@
+C:\Users\Willis\source\repos\Welcoming Form\obj\Debug\Welcoming Form.vbproj.AssemblyReference.cache
+C:\Users\Willis\source\repos\Welcoming Form\obj\Debug\Welcoming_Form.Form1.resources
+C:\Users\Willis\source\repos\Welcoming Form\obj\Debug\Welcoming_Form.Resources.resources
+C:\Users\Willis\source\repos\Welcoming Form\obj\Debug\Welcoming Form.vbproj.GenerateResource.cache
+C:\Users\Willis\source\repos\Welcoming Form\obj\Debug\Welcoming Form.vbproj.CoreCompileInputs.cache
+C:\Users\Willis\source\repos\Welcoming Form\bin\Debug\Welcoming Form.exe.config
+C:\Users\Willis\source\repos\Welcoming Form\bin\Debug\Welcoming Form.exe
+C:\Users\Willis\source\repos\Welcoming Form\bin\Debug\Welcoming Form.pdb
+C:\Users\Willis\source\repos\Welcoming Form\bin\Debug\Welcoming Form.xml
+C:\Users\Willis\source\repos\Welcoming Form\obj\Debug\Welcoming Form.exe
+C:\Users\Willis\source\repos\Welcoming Form\obj\Debug\Welcoming Form.xml
+C:\Users\Willis\source\repos\Welcoming Form\obj\Debug\Welcoming Form.pdb
+C:\Users\Willis\source\repos\Welcoming Form\obj\Debug\Welcoming_Form.ObjectDemonstrationsForm.resources
